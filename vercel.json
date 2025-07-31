@@ -1,0 +1,5 @@
+{
+  "includeFiles": [
+    "pages/api/_data/*.json"
+  ]
+}
